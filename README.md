@@ -19,11 +19,11 @@ Medication Recommendations: Recommends medications based on the user's symptoms 
 # Setup of local environment
 
 1. Download and import the file girl_hackathon_including_website_prediction.py
-2. Run the command python3 -m venv .venv in your terminal
-3. Run the colab notebook file girl_hackathon_including_website_prediction.py for ml model
-4. Run the command .venv\Scripts\activate.bat in your terminal
-5. Run the command .venv\Scripts\Activate.ps1
-6. Run the command to install streamlit pip install streamlit
-7. check if it is install by running command streamlit
-8. Run the command streamlit run girl_hackathon_including_website_prediction.py
+2. Run the command **python3 -m venv .venv** in your terminal
+3. Run the colab notebook file** girl_hackathon_including_website_prediction.py** for ml model
+4. Run the command **.venv\Scripts\activate.bat **in your terminal
+5. Run the command **.venv\Scripts\Activate.ps1**
+6. Run the command to install streamlit **pip install streamlit**
+7. check if it is install by running command **streamlit**
+8. Run the command streamlit run **girl_hackathon_including_website_prediction.py**
 9. the website will open in your local setup
