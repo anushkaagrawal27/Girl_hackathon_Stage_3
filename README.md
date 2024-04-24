@@ -7,7 +7,17 @@ The Medical Assistant project aims to develop a healthcare recommendation system
 
 # Features
 Symptom Analysis: Users can input their symptoms, and the system will analyze them to generate relevant recommendations.
+
 Doctor Recommendations: Recommends doctors with specialties that match the user's symptoms and preferences.
+
 User Ratings: Incorporates user ratings to provide recommendations based on doctor reputation and patient satisfaction.
+
 Scalability: Designed to be scalable for future integration with real-world healthcare databases.
+
 Medication Recommendations: Recommends medications based on the user's symptoms and medical history.
+
+# Setup of local environment
+
+1.import the file girl_hackathon_including_website
+
+2.Run the commond python3 -m venv .venv in your terminal
