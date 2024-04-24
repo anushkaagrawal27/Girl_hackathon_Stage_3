@@ -27,3 +27,4 @@ Medication Recommendations: Recommends medications based on the user's symptoms 
 7. check if it is install by running command **streamlit**
 8. Run the command streamlit run **girl_hackathon_including_website_prediction.py**
 9. the website will open in your local setup
+
